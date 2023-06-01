@@ -1,0 +1,9 @@
+development:
+  password: shptka_d89b29268aded156348b5da064506baf
+  theme_id: "136654455036"
+  store: dirtylittlesoapsco.myshopify.com
+
+production:
+  password: shptka_d89b29268aded156348b5da064506baf
+  theme_id: "136654455036"
+  store: dirtylittlesoapsco.myshopify.com
